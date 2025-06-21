@@ -1,5 +1,5 @@
 ========================================
-          🎮 RICOCHET RIVALS
+🎮 RICOCHET RIVALS
 ========================================
 
 Thank you for downloading *Ricochet Rivals* – a competitive 2D arena shooter built with Unity!
